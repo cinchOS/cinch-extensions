@@ -1,3 +1,12 @@
 [submodule "usr/share/gnome-shell/extensions/gnomeGlobalAppMenu@lestcape"]
 	path = usr/share/gnome-shell/extensions/gnomeGlobalAppMenu@lestcape
 	url = https://github.com/lestcape/Gnome-Global-AppMenu.git
+[submodule "usr/share/gnome-shell/extensions/extend-panel-menu@julio641742"]
+	path = usr/share/gnome-shell/extensions/extend-panel-menu@julio641742
+	url = https://github.com/julio641742/extend-panel-menu.git
+[submodule "usr/share/gnome-shell/extensions/TopIcons@phocean.net"]
+	path = usr/share/gnome-shell/extensions/TopIcons@phocean.net
+	url = https://github.com/phocean/TopIcons-plus.git
+[submodule "usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com"]
+	path = usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com
+	url = https://github.com/ubuntu/gnome-shell-extension-appindicator.git
