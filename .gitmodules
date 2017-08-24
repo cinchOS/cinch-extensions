@@ -1,0 +1,3 @@
+[submodule "usr/share/gnome-shell/extensions/gnomeGlobalAppMenu@lestcape"]
+	path = usr/share/gnome-shell/extensions/gnomeGlobalAppMenu@lestcape
+	url = https://github.com/lestcape/Gnome-Global-AppMenu.git
